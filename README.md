@@ -1,8 +1,6 @@
-
-
 <div align="center">
 
-<img width="100%" height="300px" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=300&section=header&text=Welcome to Vishnupriya's Github%20R&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" height="300px" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=300&section=header&text=Vishnupriya%20R&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
